@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.2 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab11_sogent.dir/main.cpp.o CMakeFiles/lab11_sogent.dir/RecursiveFunctions.cpp.o -o lab11_sogent 

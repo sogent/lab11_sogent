@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sogent/CLionProjects/lab11-sogent/RecursiveFunctions.h
+
+/Users/sogent/CLionProjects/lab11-sogent/main.cpp
+iostream
+-
+RecursiveFunctions.h
+/Users/sogent/CLionProjects/lab11-sogent/RecursiveFunctions.h
+
